@@ -1,0 +1,2 @@
+ini isi file pertama.
+Baris kedua file pertama.
