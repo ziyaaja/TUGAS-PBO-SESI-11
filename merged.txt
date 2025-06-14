@@ -1,0 +1,4 @@
+ini isi file pertama.
+Baris kedua file pertama.
+Ini isi file kedua.
+Baris kedua file kedua.
